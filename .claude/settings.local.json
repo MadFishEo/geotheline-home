@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "WebFetch(domain:thelineclinic.com)",
+      "Bash(ls -la /Volumes/JSEXT/temp/theline-app/src/app/[locale]/)",
+      "Bash(ls -la /Volumes/JSEXT/temp/theline-app/src/app/[locale]/promotion/)",
+      "Bash(find /Volumes/JSEXT/temp/theline-app/src/app/[locale]/promotion -type f)",
+      "Bash(find /Volumes/JSEXT/temp/theline-app/src/app/[locale] -type d)",
+      "Bash(wc -l /Volumes/JSEXT/temp/theline-app/messages/*.json)",
+      "Bash(ls /Volumes/JSEXT/temp/theline-app/middleware.*)",
+      "Bash(kill %1)",
+      "Bash(lsof -ti:3002)",
+      "Bash(xargs kill:*)",
+      "WebFetch(domain:dribbble.com)",
+      "WebFetch(domain:cdn.dribbble.com)"
+    ]
+  }
+}

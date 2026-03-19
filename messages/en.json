@@ -1,0 +1,272 @@
+{
+  "nav": {
+    "consultation": "Consultation",
+    "svfAntiAging": "SVF Anti-Aging",
+    "svfLipo": "SVF Lipo & Transfer",
+    "faceBodyLift": "FACE & BODY Lifting",
+    "petit": "Petit & Lifting",
+    "breast": "Breast Surgery",
+    "lastDiet": "LAST Diet",
+    "eyeNose": "Eyes & Nose",
+    "review": "Reviews",
+    "about": "About TheLine",
+    "promotion": "Events",
+    "openConsult": "Open Consultation",
+    "doctorQA": "Doctor Q&A",
+    "costConsult": "Cost Consultation",
+    "selfieReview": "Selfie Reviews",
+    "beforeAfter": "Before & After",
+    "pressRelease": "Press Release",
+    "thelineTV": "TheLine TV",
+    "shorts": "Shorts",
+    "doctorIntro": "Our Doctors",
+    "clinicInfo": "Clinic Info",
+    "location": "Location",
+    "svfSkinTreatment": "SVF Skin Treatment",
+    "svfFaceliftSub": "SVF Facelift",
+    "svfCellTherapy": "SVF Cell Therapy",
+    "svfLiposuctionSub": "SVF Liposuction",
+    "svfFatTransferSub": "SVF Fat Transfer",
+    "svfBreastTransferSub": "SVF Breast Transfer",
+    "faceliftSub": "Facelift",
+    "browForehead": "Brow & Forehead Lift",
+    "neckLift": "Neck Lift",
+    "armLiftSub": "Arm Lift",
+    "thighLiftSub": "Thigh Lift",
+    "botox": "Botox",
+    "filler": "Filler",
+    "threadLift": "Thread Lift",
+    "implantBreast": "Implant Breast",
+    "svfBreastSurgery": "SVF Breast",
+    "breastRevision": "Breast Revision",
+    "lastDietProgram": "LAST Diet Program",
+    "dietReviewNav": "Diet Reviews",
+    "eyeSurgery": "Eye Surgery",
+    "noseSurgery": "Nose Surgery"
+  },
+  "home": {
+    "heroTitle": "The Line Plastic Surgery",
+    "heroSubtitle": "Safe and Beautiful Transformation",
+    "signatureCase": "Signature Cases",
+    "signatureSub": "Our Featured Procedures",
+    "thelineShorts": "TheLine Shorts",
+    "study": "Study",
+    "medicalTeam": "Medical Team",
+    "medicalTeamSub": "Expert Physicians at TheLine",
+    "selfieReview": "Selfie Reviews",
+    "selfieReviewSub": "Real Patient Experiences",
+    "beforeAfter": "Before & After",
+    "beforeAfterSub": "Real Treatment Results",
+    "openConsult": "Open Consultation",
+    "doctorQA": "Doctor Q&A",
+    "privateConsult": "Private Consultation",
+    "promotionEvent": "Promotions & Events",
+    "allVideos": "All",
+    "beforeAfterTab": "Before & After",
+    "procedureTab": "Procedure",
+    "dietReview": "Diet Review",
+    "viewMore": "View More",
+    "consultNow": "Consult Now",
+    "bookSchedule": "Schedule",
+    "chatConsult": "Chat",
+    "costConsult": "Cost",
+    "notice": "Notice",
+    "directions": "Directions",
+    "name": "Name",
+    "phone": "Phone",
+    "procedure": "Procedure",
+    "doctor": "Doctor",
+    "submit": "Submit",
+    "privacyAgree": "Agree to Privacy Policy",
+    "years": " years",
+    "viewDetails": "View Details",
+    "goTo": "Go",
+    "youtubeChannel": "Visit YouTube Channel",
+    "viewAllDoctors": "View All Doctors",
+    "freeConsultLabel": "Free Consultation",
+    "consultHeadingPre": "Book Your",
+    "consultHeadingHighlight": "Free Consultation",
+    "consultHeadingPost": " Right Now",
+    "consultDesc": "Our expert medical team will provide\npersonalized 1-on-1 consultation.",
+    "consultStep1": "Contacted within 24 hours of request",
+    "consultStep2": "Dedicated coordinator schedules your appointment",
+    "consultStep3": "1-on-1 custom consultation with expert physician",
+    "phoneConsultLabel": "Phone Consultation",
+    "phoneHours": "Weekdays & Saturday 09:30–18:30",
+    "onlineConsultTitle": "Online Consultation Request",
+    "openConsultDesc": "Check expert answers on our public board",
+    "doctorQADesc": "Ask our doctors your questions directly",
+    "privateConsultDesc": "Get personalized private consultation",
+    "promotionEventDesc": "Check our special events and discounts",
+    "yearsExperience": "Years of Experience",
+    "aboutTitle": "Raising the Standard of Beauty",
+    "aboutTitleBold": "TheLine Plastic Surgery",
+    "aboutDesc": "With over 30 years of expertise in plastic surgery,\nTheLine pursues safe and natural beauty.\n\nThrough SVF stem cell technology and precision liposuction systems,\nwe provide customized solutions for each patient.",
+    "aboutFeature1": "SVF Stem Cell Expert",
+    "aboutFeature2": "4 Board-Certified Surgeons",
+    "aboutFeature3": "In-house Research Lab",
+    "aboutFeature4": "Premium Care",
+    "makeAppointment": "Book Appointment",
+    "servicesTitle": "Our Special Procedures",
+    "servicesSub": "Signature treatments perfected with 30 years of expertise and cutting-edge technology",
+    "statYears": "Y+",
+    "statYearsLabel": "Years of Surgical Experience",
+    "statCasesLabel": "Total Procedures Performed",
+    "statReviewsLabel": "Patient Reviews",
+    "statDoctorsUnit": "",
+    "statDoctorsLabel": "Board-Certified Surgeons",
+    "onlineConsultSub": "Request a consultation easily online"
+  },
+  "banner": {
+    "viewDetails": "View Details",
+    "slides": [
+      { "title": "Safe & Smooth\nLarge Volume SVF Arm Lipo", "subtitle": "From ₩1,400,000", "tag": "SVF LIPO" },
+      { "title": "TheLine Signature\nSVF Deep Plane Facelift", "subtitle": "From ₩13,000,000", "tag": "FACELIFT" },
+      { "title": "TheLine SVF 360\nAbdominal Liposuction", "subtitle": "From ₩2,100,000", "tag": "SVF LIPO" },
+      { "title": "Arm Lift\nCorrect Sagging Arms", "subtitle": "From ₩3,000,000", "tag": "FACE & BODY LIFT" },
+      { "title": "SVF Cheekbone Reduction\nVolume Restoration", "subtitle": "From ₩6,600,000", "tag": "SVF ANTI-AGING" }
+    ]
+  },
+  "cases": {
+    "items": [
+      { "title": "Signature Waist·Pelvis·Saddlebag", "subtitle": "Slim & Toned Body Line", "price": "From ₩2,500,000" },
+      { "title": "Signature Bone Arm Lipo", "subtitle": "Slim and smooth arm line", "price": "From ₩1,400,000" },
+      { "title": "Signature 360° Thigh Contouring", "subtitle": "Long & Slim Legs", "price": "From ₩2,300,000" },
+      { "title": "Signature Arm Lift", "subtitle": "Correct sagging arm line", "price": "From ₩3,000,000" },
+      { "title": "SVF Deep Plane Facelift", "subtitle": "Natural facial lifting", "price": "From ₩13,000,000" },
+      { "title": "SVF Cheekbone Reduction", "subtitle": "Cheekbone reduction + volume", "price": "From ₩6,600,000" }
+    ]
+  },
+  "promotion": {
+    "title": "Promotions",
+    "subtitle": "Special Events at TheLine",
+    "ongoing": "Ongoing",
+    "ended": "Ended",
+    "won": "10,000 KRW"
+  },
+  "review": {
+    "title": "Selfie Reviews",
+    "subtitle": "Real Stories from Our Patients",
+    "total": "Total",
+    "count": " reviews",
+    "viewDetails": "View Details",
+    "categories": ["All", "Arm", "Abdomen", "Thigh", "Face", "Breast"],
+    "items": [
+      { "title": "Arm Lifting + Lipo 3-Month Review", "category": "Arm" },
+      { "title": "Arm Lipo + Lifting 6-Month Review", "category": "Arm" },
+      { "title": "Muscular Arm Lipo Success Story", "category": "Arm" },
+      { "title": "Abdominal Lipo 1-Month Review", "category": "Abdomen" },
+      { "title": "1-Month Update Review", "category": "Arm" },
+      { "title": "Hip Fat Transfer Review", "category": "Thigh" },
+      { "title": "Arm Lipo 3-Month Check", "category": "Arm" },
+      { "title": "Arm Lipo Minimal Scarring Review", "category": "Arm" }
+    ]
+  },
+  "videos": {
+    "youtubeChannel": "Visit YouTube Channel",
+    "items": {
+      "allVideos": [
+        "SVF Deep Plane Facelift Procedure",
+        "Arm Lipo 3-Month Results",
+        "SVF 360 Abdominal Liposuction",
+        "TheLine Stem Cell Lab Tour"
+      ],
+      "beforeAfterTab": [
+        "Facelift Before & After",
+        "Arm Lipo Before & After"
+      ],
+      "procedureTab": [
+        "SVF Procedure in Detail",
+        "Liposuction Surgery Process"
+      ],
+      "dietReview": [
+        "LAST Diet 2-Month Review",
+        "Stem Cell Diet Review"
+      ]
+    }
+  },
+  "about": {
+    "title": "About TheLine",
+    "subtitle": "TheLine Plastic Surgery",
+    "address": "65 Garosu-gil, Sinsa-dong, Gangnam-gu, Seoul, Korea (Dongnam Bldg 4F-6F)",
+    "hours": "Weekdays & Saturday 09:30–18:30 / Closed Sundays & Holidays",
+    "phone": "1899-0252",
+    "floors": {
+      "4f": "4F - Consultation Rooms",
+      "5f": "5F - Treatment & Stem Cell Lab",
+      "6f": "6F - Operating Rooms"
+    }
+  },
+  "footer": {
+    "address": "65 Garosu-gil, Sinsa-dong, Gangnam-gu, Seoul (Dongnam Bldg 4F-6F)",
+    "hours": "Weekdays & Saturday 09:30–18:30",
+    "closed": "Closed Sundays & Holidays",
+    "phone": "1899-0252",
+    "international": "International Inquiries",
+    "line": "LINE: thelinezx",
+    "wechat": "WeChat: thelinezx",
+    "whatsapp": "WhatsApp: +82 10 9848 0252",
+    "copyright": "© TheLine Plastic Surgery. All rights reserved.",
+    "onlineConsult": "Online Consultation",
+    "freeConsult": "Free Online Consultation",
+    "freeConsultSub": "Get personalized 1-on-1 consultation with our experts",
+    "quickLinks": "Quick Links",
+    "promotionLink": "Promotions",
+    "reviewLink": "Selfie Reviews",
+    "doctorLink": "Our Doctors",
+    "locationLink": "Directions"
+  },
+  "doctors": {
+    "jung": {
+      "name": "Dr. Jung Yu-Seok",
+      "title": "Chief Director",
+      "career": "31 years as plastic surgeon",
+      "specialties": ["SVF Anti-Aging", "Facelift", "Lipo & Transfer"]
+    },
+    "jo": {
+      "name": "Dr. Jo Jae-Ho",
+      "title": "Director",
+      "career": "30 years SVF fat specialist",
+      "specialties": ["SVF Fat", "Stem Cell", "Fat Transfer"]
+    },
+    "kim": {
+      "name": "Dr. Kim Yun-Geun",
+      "title": "Director",
+      "career": "29 years cellular precision",
+      "specialties": ["Cellular Precision", "SVF Therapy", "Anti-Aging"]
+    },
+    "baek": {
+      "name": "Dr. Baek Jung-Jae",
+      "title": "Director",
+      "career": "Patient-centered care",
+      "specialties": ["Breast Surgery", "Eye & Nose", "Custom Consult"]
+    }
+  },
+  "services": {
+    "items": [
+      { "title": "SVF Liposuction", "desc": "Next-generation liposuction with SVF stem cell technology for smooth and firm body contouring." },
+      { "title": "SVF Facelift", "desc": "Natural youthful lifting with deep plane facelift and SVF stem cell technology." },
+      { "title": "FACE & BODY Lifting", "desc": "Comprehensive lifting procedures for face, arms, and thighs to fundamentally improve sagging skin." },
+      { "title": "SVF Breast Surgery", "desc": "Natural breast volume enhancement using autologous fat and SVF stem cells." },
+      { "title": "Petit Procedures", "desc": "Quick results with non-surgical methods including Botox, fillers, and thread lifting." },
+      { "title": "SVF Fat Transfer", "desc": "Natural and long-lasting volume with stem cell engraftment technology." }
+    ]
+  },
+  "form": {
+    "selectProcedure": "Please select",
+    "selectDoctor": "Please select (optional)",
+    "privacyAlert": "Please agree to the privacy policy.",
+    "successTitle": "Consultation request submitted!",
+    "successDesc": "We will contact you shortly.",
+    "namePlaceholder": "Your Name",
+    "phonePlaceholder": "+82-10-0000-0000",
+    "procedures": [
+      "SVF Anti-Aging", "SVF Liposuction", "SVF Fat Transfer",
+      "Facelift", "Arm Lift", "Thigh Lift",
+      "Breast Surgery", "Eye Surgery", "Nose Surgery", "LAST Diet"
+    ],
+    "doctors": [
+      "Dr. Jung Yu-Seok", "Dr. Jo Jae-Ho", "Dr. Kim Yun-Geun", "Dr. Baek Jung-Jae"
+    ]
+  }
+}

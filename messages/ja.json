@@ -1,0 +1,272 @@
+{
+  "nav": {
+    "consultation": "カスタム相談",
+    "svfAntiAging": "SVFアンチエイジング",
+    "svfLipo": "SVF吸引・移植",
+    "faceBodyLift": "フェイス&ボディリフト",
+    "petit": "プチ整形&リフティング",
+    "breast": "豊胸手術",
+    "lastDiet": "LASTダイエット",
+    "eyeNose": "目・鼻",
+    "review": "レビュー",
+    "about": "About TheLine",
+    "promotion": "イベント",
+    "openConsult": "公開相談",
+    "doctorQA": "ドクターQ&A",
+    "costConsult": "費用相談",
+    "selfieReview": "自撮りレビュー",
+    "beforeAfter": "ビフォーアフター",
+    "pressRelease": "プレスリリース",
+    "thelineTV": "TheLine TV",
+    "shorts": "ショーツ",
+    "doctorIntro": "医師紹介",
+    "clinicInfo": "クリニック紹介",
+    "location": "アクセス",
+    "svfSkinTreatment": "SVF皮膚治療",
+    "svfFaceliftSub": "SVFフェイスリフト",
+    "svfCellTherapy": "SVF細胞療法",
+    "svfLiposuctionSub": "SVF脂肪吸引",
+    "svfFatTransferSub": "SVF脂肪移植",
+    "svfBreastTransferSub": "SVF豊胸移植",
+    "faceliftSub": "フェイスリフト",
+    "browForehead": "眉間・額リフト",
+    "neckLift": "ネックリフト",
+    "armLiftSub": "アームリフト",
+    "thighLiftSub": "太ももリフト",
+    "botox": "ボトックス",
+    "filler": "フィラー",
+    "threadLift": "スレッドリフト",
+    "implantBreast": "インプラント豊胸",
+    "svfBreastSurgery": "SVF豊胸",
+    "breastRevision": "豊胸修正",
+    "lastDietProgram": "LASTダイエット",
+    "dietReviewNav": "ダイエットレビュー",
+    "eyeSurgery": "目の整形",
+    "noseSurgery": "鼻の整形"
+  },
+  "home": {
+    "heroTitle": "TheLine整形外科",
+    "heroSubtitle": "安全で美しい変化",
+    "signatureCase": "シグネチャーケース",
+    "signatureSub": "TheLineの代表施術",
+    "thelineShorts": "TheLineショーツ",
+    "study": "スタディ",
+    "medicalTeam": "医療チーム",
+    "medicalTeamSub": "TheLineの専門医師",
+    "selfieReview": "自撮りレビュー",
+    "selfieReviewSub": "実際の患者様の声",
+    "beforeAfter": "ビフォーアフター",
+    "beforeAfterSub": "実際の施術前後",
+    "openConsult": "公開相談",
+    "doctorQA": "ドクターQ&A",
+    "privateConsult": "非公開相談",
+    "promotionEvent": "プロモーション",
+    "allVideos": "すべて",
+    "beforeAfterTab": "ビフォーアフター",
+    "procedureTab": "施術過程",
+    "dietReview": "ダイエットレビュー",
+    "viewMore": "もっと見る",
+    "consultNow": "相談する",
+    "bookSchedule": "予約",
+    "chatConsult": "チャット相談",
+    "costConsult": "費用相談",
+    "notice": "お知らせ",
+    "directions": "アクセス",
+    "name": "お名前",
+    "phone": "電話番号",
+    "procedure": "相談部位",
+    "doctor": "担当医",
+    "submit": "相談申込",
+    "privacyAgree": "個人情報収集に同意",
+    "years": "年",
+    "viewDetails": "詳しく見る",
+    "goTo": "移動する",
+    "youtubeChannel": "YouTubeチャンネルへ",
+    "viewAllDoctors": "全医師を見る",
+    "freeConsultLabel": "無料カウンセリング",
+    "consultHeadingPre": "今すぐ",
+    "consultHeadingHighlight": "無料カウンセリング",
+    "consultHeadingPost": "をお申し込みください",
+    "consultDesc": "専門医療チームが1対1の\nカスタムカウンセリングを提供します。",
+    "consultStep1": "申し込みから24時間以内にご連絡",
+    "consultStep2": "専任コーディネーターがスケジュール調整",
+    "consultStep3": "専門医師と1対1カスタム相談",
+    "phoneConsultLabel": "電話カウンセリング",
+    "phoneHours": "平日・土曜 09:30–18:30",
+    "onlineConsultTitle": "オンラインカウンセリング申し込み",
+    "openConsultDesc": "公開掲示板で専門医の回答をご確認ください",
+    "doctorQADesc": "医師に直接ご質問いただけます",
+    "privateConsultDesc": "非公開で個別カウンセリングを受けられます",
+    "promotionEventDesc": "TheLineの特別イベントと割引をご確認ください",
+    "yearsExperience": "年以上の経験",
+    "aboutTitle": "美の基準を高める",
+    "aboutTitleBold": "TheLine整形外科",
+    "aboutDesc": "TheLine整形外科は30年以上の整形外科専門医の経験をもとに、\n安全で自然な美しさを追求しています。\n\nSVF幹細胞技術と精密脂肪吸引システムにより、\nお一人おひとりに最適なオーダーメイドソリューションをご提供します。",
+    "aboutFeature1": "SVF幹細胞専門",
+    "aboutFeature2": "専門医4名の診療",
+    "aboutFeature3": "自社研究室完備",
+    "aboutFeature4": "プレミアムケア",
+    "makeAppointment": "カウンセリング予約",
+    "servicesTitle": "TheLineの特別な施術",
+    "servicesSub": "30年のノウハウと最先端技術で完成するTheLineのシグネチャー施術",
+    "statYears": "年+",
+    "statYearsLabel": "整形外科専門医の経歴",
+    "statCasesLabel": "累計施術件数",
+    "statReviewsLabel": "患者レビュー",
+    "statDoctorsUnit": "名",
+    "statDoctorsLabel": "専門医師",
+    "onlineConsultSub": "簡単にオンラインでカウンセリングをお申し込みください"
+  },
+  "banner": {
+    "viewDetails": "詳しく見る",
+    "slides": [
+      { "title": "安全でなめらかな\n大容量SVFアームリポ", "subtitle": "140万ウォン~", "tag": "SVF脂肪吸引" },
+      { "title": "TheLineシグネチャー\nSVFディーププレーンリフト", "subtitle": "1,300万ウォン~", "tag": "フェイスリフト" },
+      { "title": "TheLine SVF 360\n腹部脂肪吸引", "subtitle": "210万ウォン~", "tag": "SVF脂肪吸引" },
+      { "title": "アームリフト\n垂れた二の腕の矯正", "subtitle": "300万ウォン~", "tag": "フェイス&ボディリフト" },
+      { "title": "SVF頬骨縮小\nボリュームアップ", "subtitle": "660万ウォン~", "tag": "SVFアンチエイジング" }
+    ]
+  },
+  "cases": {
+    "items": [
+      { "title": "シグネチャーウエスト·骨盤·サドル", "subtitle": "スリムでタイトなラインに", "price": "250万ウォン~" },
+      { "title": "シグネチャーアーム脂肪吸引", "subtitle": "スリムでなめらかな腕ライン", "price": "140万ウォン~" },
+      { "title": "シグネチャー360°太もも", "subtitle": "長く細い脚に", "price": "230万ウォン~" },
+      { "title": "シグネチャーアームリフト", "subtitle": "垂れた腕ラインの矯正", "price": "300万ウォン~" },
+      { "title": "SVFディーププレーンリフト", "subtitle": "自然なフェイスリフト", "price": "1,300万ウォン~" },
+      { "title": "SVF頬骨縮小", "subtitle": "頬骨縮小＋ボリュームアップ", "price": "660万ウォン~" }
+    ]
+  },
+  "promotion": {
+    "title": "プロモーション",
+    "subtitle": "TheLineの特別イベント",
+    "ongoing": "開催中",
+    "ended": "終了",
+    "won": "万ウォン"
+  },
+  "review": {
+    "title": "自撮りレビュー",
+    "subtitle": "実際の患者様の体験談",
+    "total": "全",
+    "count": "件",
+    "viewDetails": "詳しく見る",
+    "categories": ["すべて", "腕", "腹部", "太もも", "顔", "胸"],
+    "items": [
+      { "title": "アームリフト+脂肪吸引3ヶ月後記", "category": "腕" },
+      { "title": "アーム脂肪吸引+リフト6ヶ月後記", "category": "腕" },
+      { "title": "アーム脂肪吸引成功記", "category": "腕" },
+      { "title": "腹部脂肪吸引1ヶ月後記", "category": "腹部" },
+      { "title": "1ヶ月後記アップデート", "category": "腕" },
+      { "title": "ヒップ脂肪移植後記", "category": "太もも" },
+      { "title": "アーム脂肪吸引3ヶ月目", "category": "腕" },
+      { "title": "アーム脂肪吸引傷跡最小化後記", "category": "腕" }
+    ]
+  },
+  "videos": {
+    "youtubeChannel": "YouTubeチャンネルへ",
+    "items": {
+      "allVideos": [
+        "SVFディーププレーンリフト施術過程",
+        "アーム脂肪吸引3ヶ月結果",
+        "SVF 360腹部脂肪吸引",
+        "TheLine幹細胞研究室ツアー"
+      ],
+      "beforeAfterTab": [
+        "フェイスリフトビフォーアフター",
+        "アーム脂肪吸引ビフォーアフター"
+      ],
+      "procedureTab": [
+        "SVF施術過程詳細",
+        "脂肪吸引手術過程"
+      ],
+      "dietReview": [
+        "LASTダイエット2ヶ月後記",
+        "幹細胞ダイエット後記"
+      ]
+    }
+  },
+  "about": {
+    "title": "About TheLine",
+    "subtitle": "TheLine整形外科",
+    "address": "ソウル特別市江南区新沙洞ガロスギル65 東南ビル4・5・6階",
+    "hours": "平日・土曜 09:30–18:30 / 日曜・祝日休診",
+    "phone": "1899-0252",
+    "floors": {
+      "4f": "4F - カウンセリング室",
+      "5f": "5F - トリートメント・幹細胞研究室",
+      "6f": "6F - 手術室"
+    }
+  },
+  "footer": {
+    "address": "ソウル市江南区新沙洞ガロスギル65 東南ビル4-6F",
+    "hours": "平日・土曜 09:30–18:30",
+    "closed": "日曜・祝日休診",
+    "phone": "1899-0252",
+    "international": "海外からのお問い合わせ",
+    "line": "LINE: thelinezx",
+    "wechat": "WeChat: thelinezx",
+    "whatsapp": "WhatsApp: +82 10 9848 0252",
+    "copyright": "© TheLine整形外科. All rights reserved.",
+    "onlineConsult": "オンラインカウンセリング",
+    "freeConsult": "無料オンラインカウンセリング",
+    "freeConsultSub": "専門医師と1対1のカスタムカウンセリングを",
+    "quickLinks": "クイックリンク",
+    "promotionLink": "プロモーション",
+    "reviewLink": "自撮りレビュー",
+    "doctorLink": "医師紹介",
+    "locationLink": "アクセス"
+  },
+  "doctors": {
+    "jung": {
+      "name": "チョン・ユソク 院長",
+      "title": "代表院長",
+      "career": "整形外科専門医31年",
+      "specialties": ["SVFアンチエイジング", "フェイスリフト", "吸引・移植"]
+    },
+    "jo": {
+      "name": "チョ・ジェホ 院長",
+      "title": "院長",
+      "career": "30年SVF脂肪専門",
+      "specialties": ["SVF脂肪", "幹細胞", "脂肪移植"]
+    },
+    "kim": {
+      "name": "キム・ユングン 院長",
+      "title": "院長",
+      "career": "29年細胞単位精密施術",
+      "specialties": ["細胞単位精密", "SVF治療", "アンチエイジング"]
+    },
+    "baek": {
+      "name": "ペク・ジュンジェ 院長",
+      "title": "院長",
+      "career": "患者とのコミュニケーション重視",
+      "specialties": ["豊胸手術", "目・鼻", "カスタム相談"]
+    }
+  },
+  "services": {
+    "items": [
+      { "title": "SVF脂肪吸引", "desc": "SVF幹細胞技術を取り入れた次世代脂肪吸引で、なめらかで引き締まったボディラインを実現します。" },
+      { "title": "SVFフェイスリフト", "desc": "ディーププレーンフェイスリフトとSVF幹細胞で、自然な若返りリフティングを実現します。" },
+      { "title": "フェイス&ボディリフト", "desc": "たるんだ皮膚を根本から改善する顔・腕・太もものリフト専門施術です。" },
+      { "title": "SVF豊胸手術", "desc": "自家脂肪とSVF幹細胞を活用した自然なバストアップ施術です。" },
+      { "title": "プチ施術", "desc": "ボトックス、フィラー、スレッドリフトなど非手術的方法で素早い効果を体験できます。" },
+      { "title": "SVF脂肪移植", "desc": "幹細胞定着技術で自然で長持ちするボリュームを作り出します。" }
+    ]
+  },
+  "form": {
+    "selectProcedure": "選択してください",
+    "selectDoctor": "選択してください（任意）",
+    "privacyAlert": "個人情報収集にご同意ください。",
+    "successTitle": "カウンセリング申し込みが完了しました！",
+    "successDesc": "できるだけ早くご連絡いたします。",
+    "namePlaceholder": "お名前",
+    "phonePlaceholder": "+82-10-0000-0000",
+    "procedures": [
+      "SVFアンチエイジング", "SVF脂肪吸引", "SVF脂肪移植",
+      "フェイスリフト", "アームリフト", "太ももリフト",
+      "豊胸手術", "目の整形", "鼻の整形", "LASTダイエット"
+    ],
+    "doctors": [
+      "チョン・ユソク 院長", "チョ・ジェホ 院長", "キム・ユングン 院長", "ペク・ジュンジェ 院長"
+    ]
+  }
+}

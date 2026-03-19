@@ -1,0 +1,272 @@
+{
+  "nav": {
+    "consultation": "맞춤상담",
+    "svfAntiAging": "SVF 항노화",
+    "svfLipo": "SVF 흡입·이식",
+    "faceBodyLift": "FACE & BODY 거상",
+    "petit": "쁘띠&리프팅",
+    "breast": "가슴성형",
+    "lastDiet": "LAST Diet",
+    "eyeNose": "눈·코",
+    "review": "후기",
+    "about": "About 더라인",
+    "promotion": "이벤트",
+    "openConsult": "공개상담",
+    "doctorQA": "닥터Q&A",
+    "costConsult": "비용상담",
+    "selfieReview": "셀카후기",
+    "beforeAfter": "비포애프터",
+    "pressRelease": "언론보도",
+    "thelineTV": "더라인TV",
+    "shorts": "쇼츠",
+    "doctorIntro": "의료진소개",
+    "clinicInfo": "의원소개",
+    "location": "오시는길",
+    "svfSkinTreatment": "SVF 피부 치료",
+    "svfFaceliftSub": "SVF 안면 거상",
+    "svfCellTherapy": "SVF 세포 치료",
+    "svfLiposuctionSub": "SVF 지방흡입",
+    "svfFatTransferSub": "SVF 지방이식",
+    "svfBreastTransferSub": "SVF 가슴 이식",
+    "faceliftSub": "안면거상",
+    "browForehead": "미간·이마거상",
+    "neckLift": "목거상",
+    "armLiftSub": "팔거상",
+    "thighLiftSub": "허벅지거상",
+    "botox": "보톡스",
+    "filler": "필러",
+    "threadLift": "실리프팅",
+    "implantBreast": "보형물 가슴성형",
+    "svfBreastSurgery": "SVF 가슴성형",
+    "breastRevision": "가슴 수정",
+    "lastDietProgram": "LAST 다이어트",
+    "dietReviewNav": "다이어트 후기",
+    "eyeSurgery": "눈성형",
+    "noseSurgery": "코성형"
+  },
+  "home": {
+    "heroTitle": "더라인성형외과",
+    "heroSubtitle": "안전하고 아름다운 변화",
+    "signatureCase": "시그니처 케이스",
+    "signatureSub": "더라인의 대표 시술",
+    "thelineShorts": "더라인 Shorts",
+    "study": "Study",
+    "medicalTeam": "의료진",
+    "medicalTeamSub": "더라인의 전문 의료진",
+    "selfieReview": "셀카 후기",
+    "selfieReviewSub": "실제 고객 후기",
+    "beforeAfter": "비포 & 애프터",
+    "beforeAfterSub": "실제 시술 전후 사진",
+    "openConsult": "공개상담",
+    "doctorQA": "닥터Q&A",
+    "privateConsult": "비공개상담",
+    "promotionEvent": "프로모션 이벤트",
+    "allVideos": "전체",
+    "beforeAfterTab": "비포애프터",
+    "procedureTab": "시술과정",
+    "dietReview": "다이어트 후기",
+    "viewMore": "더보기",
+    "consultNow": "상담하기",
+    "bookSchedule": "일정예약",
+    "chatConsult": "채팅상담",
+    "costConsult": "비용상담",
+    "notice": "공지사항",
+    "directions": "오시는길",
+    "name": "이름",
+    "phone": "연락처",
+    "procedure": "상담부위",
+    "doctor": "담당의사",
+    "submit": "상담신청",
+    "privacyAgree": "개인정보 수집 동의",
+    "years": "년",
+    "viewDetails": "자세히 보기",
+    "goTo": "바로가기",
+    "youtubeChannel": "YouTube 채널 바로가기",
+    "viewAllDoctors": "의료진 전체 보기",
+    "freeConsultLabel": "Free Consultation",
+    "consultHeadingPre": "지금 바로",
+    "consultHeadingHighlight": "무료 상담",
+    "consultHeadingPost": "을 신청하세요",
+    "consultDesc": "전문 의료진이 1:1 맞춤 상담을 통해\n최적의 솔루션을 제안해 드립니다.",
+    "consultStep1": "상담 신청 후 24시간 내 연락",
+    "consultStep2": "전담 코디네이터가 일정 조율",
+    "consultStep3": "전문 의료진과 1:1 맞춤 상담",
+    "phoneConsultLabel": "전화 상담",
+    "phoneHours": "평일·토요일 09:30~18:30",
+    "onlineConsultTitle": "온라인 상담 신청",
+    "openConsultDesc": "공개 게시판에서 전문 의료진의 답변을 확인하세요",
+    "doctorQADesc": "궁금한 점을 직접 의료진에게 질문하세요",
+    "privateConsultDesc": "비공개로 개인 맞춤 상담을 받아보세요",
+    "promotionEventDesc": "더라인의 특별 이벤트와 할인 혜택을 확인하세요",
+    "yearsExperience": "년 이상의 경험",
+    "aboutTitle": "아름다움의 기준을 높이다",
+    "aboutTitleBold": "더라인성형외과",
+    "aboutDesc": "더라인성형외과는 30년 이상의 성형외과 전문의 경험을 바탕으로\n안전하고 자연스러운 아름다움을 추구합니다.\n\nSVF 줄기세포 기술과 정밀 지방흡입 시스템을 통해\n고객 한 분 한 분께 최적의 맞춤 솔루션을 제공합니다.",
+    "aboutFeature1": "SVF 줄기세포 전문",
+    "aboutFeature2": "전문의 4인 진료",
+    "aboutFeature3": "자체 연구실 보유",
+    "aboutFeature4": "프리미엄 케어",
+    "makeAppointment": "상담 예약하기",
+    "servicesTitle": "더라인의 특별한 시술",
+    "servicesSub": "30년 노하우와 첨단 기술력으로 완성하는 더라인의 시그니처 시술",
+    "statYears": "년+",
+    "statYearsLabel": "성형외과 전문의 경력",
+    "statCasesLabel": "누적 시술 건수",
+    "statReviewsLabel": "고객 리뷰",
+    "statDoctorsUnit": "인",
+    "statDoctorsLabel": "전문 의료진",
+    "onlineConsultSub": "간편하게 온라인으로 상담을 신청하세요"
+  },
+  "banner": {
+    "viewDetails": "자세히 보기",
+    "slides": [
+      { "title": "안전하고 매끈한\n대용량 SVF 뼈팔흡입", "subtitle": "140만원~", "tag": "SVF 지방흡입" },
+      { "title": "더라인 시그니처\nSVF딥플레인안면거상", "subtitle": "1,300만원~", "tag": "안면거상" },
+      { "title": "더라인 SVF 360\n복부 지방흡입", "subtitle": "210만원~", "tag": "SVF 흡입이식" },
+      { "title": "날개 팔거상\n팔뚝 라인 교정", "subtitle": "300만원~", "tag": "FACE & BODY 거상" },
+      { "title": "SVF 허골승\n광대 축소 솔루션", "subtitle": "660만원~", "tag": "SVF 항노화" }
+    ]
+  },
+  "cases": {
+    "items": [
+      { "title": "시그니처 허리·골반·안장살", "subtitle": "날씬하고 탄탄한 라인", "price": "250만원~" },
+      { "title": "시그니처 뼈팔 흡입", "subtitle": "매끈하고 날씬한 팔 라인", "price": "140만원~" },
+      { "title": "시그니처 360° 허벅지 윤곽", "subtitle": "긴 다리, 슬림한 허벅지", "price": "230만원~" },
+      { "title": "시그니처 팔거상", "subtitle": "처진 팔뚝 라인 교정", "price": "300만원~" },
+      { "title": "SVF 딥플레인 안면거상", "subtitle": "자연스러운 안면 리프팅", "price": "1,300만원~" },
+      { "title": "SVF 허골승", "subtitle": "광대 축소 + 볼륨 업", "price": "660만원~" }
+    ]
+  },
+  "promotion": {
+    "title": "프로모션",
+    "subtitle": "더라인의 특별한 이벤트",
+    "ongoing": "진행중",
+    "ended": "종료",
+    "won": "만원"
+  },
+  "review": {
+    "title": "셀카 후기",
+    "subtitle": "실제 고객들의 생생한 후기",
+    "total": "총",
+    "count": "건",
+    "viewDetails": "자세히 보기",
+    "categories": ["전체", "팔", "복부", "허벅지", "얼굴", "가슴"],
+    "items": [
+      { "title": "팔 리프팅 + 지방흡입 3개월 후기", "category": "팔" },
+      { "title": "팔 지방흡입 + 리프팅 6개월 후기", "category": "팔" },
+      { "title": "근육질 팔 지방흡입 성공 후기", "category": "팔" },
+      { "title": "복부 지방흡입 1개월 후기", "category": "복부" },
+      { "title": "1개월 후기 업데이트", "category": "팔" },
+      { "title": "골반 지방이식 시술 후기", "category": "허벅지" },
+      { "title": "팔 지방흡입 3개월차", "category": "팔" },
+      { "title": "팔 지방흡입 흉터 최소화 후기", "category": "팔" }
+    ]
+  },
+  "videos": {
+    "youtubeChannel": "YouTube 채널 바로가기",
+    "items": {
+      "allVideos": [
+        "SVF 딥플레인 안면거상 시술 과정",
+        "팔 지방흡입 3개월 결과",
+        "SVF 복부 360 지방흡입",
+        "더라인 줄기세포 연구실 투어"
+      ],
+      "beforeAfterTab": [
+        "안면거상 비포애프터",
+        "팔 지방흡입 비포애프터"
+      ],
+      "procedureTab": [
+        "SVF 시술 과정 자세히 보기",
+        "지방흡입 수술 과정"
+      ],
+      "dietReview": [
+        "LAST 다이어트 2개월 후기",
+        "줄기세포 다이어트 후기"
+      ]
+    }
+  },
+  "about": {
+    "title": "About 더라인",
+    "subtitle": "더라인성형외과 소개",
+    "address": "서울특별시 강남구 신사동 가로수길 65 동남빌딩 4, 5, 6층",
+    "hours": "평일·토요일 09:30 ~ 18:30 / 일요일·공휴일 휴무",
+    "phone": "1899-0252",
+    "floors": {
+      "4f": "4층 - 상담실",
+      "5f": "5층 - 시술관리실 · 줄기세포연구실",
+      "6f": "6층 - 수술실"
+    }
+  },
+  "footer": {
+    "address": "서울특별시 강남구 신사동 가로수길 65 동남빌딩 4, 5, 6층",
+    "hours": "평일·토요일 09:30 ~ 18:30",
+    "closed": "일요일·공휴일 휴무",
+    "phone": "1899-0252",
+    "international": "해외문의",
+    "line": "LINE: thelinezx",
+    "wechat": "WeChat: thelinezx",
+    "whatsapp": "WhatsApp: +82 10 9848 0252",
+    "copyright": "© 더라인성형외과. All rights reserved.",
+    "onlineConsult": "온라인 상담",
+    "freeConsult": "무료 온라인 상담",
+    "freeConsultSub": "전문 의료진과 1:1 맞춤 상담을 받아보세요",
+    "quickLinks": "Quick Links",
+    "promotionLink": "프로모션",
+    "reviewLink": "셀카 후기",
+    "doctorLink": "의료진 소개",
+    "locationLink": "오시는 길"
+  },
+  "doctors": {
+    "jung": {
+      "name": "정유석",
+      "title": "대표원장",
+      "career": "31년 성형외과 전문의",
+      "specialties": ["SVF 항노화", "안면거상", "지방흡입이식"]
+    },
+    "jo": {
+      "name": "조재호",
+      "title": "원장",
+      "career": "30년 SVF 지방 전문",
+      "specialties": ["SVF 지방", "줄기세포", "지방이식"]
+    },
+    "kim": {
+      "name": "김윤근",
+      "title": "원장",
+      "career": "29년 세포단위 정밀 시술",
+      "specialties": ["세포단위 정밀", "SVF 치료", "항노화"]
+    },
+    "baek": {
+      "name": "백중재",
+      "title": "원장",
+      "career": "환자 소통 중시",
+      "specialties": ["가슴성형", "눈·코", "맞춤상담"]
+    }
+  },
+  "services": {
+    "items": [
+      { "title": "SVF 지방흡입", "desc": "SVF 줄기세포 기술을 접목한 차세대 지방흡입으로 매끄럽고 탄력있는 바디라인을 완성합니다." },
+      { "title": "SVF 안면거상", "desc": "딥플레인 안면거상과 SVF 줄기세포로 자연스러운 동안 리프팅을 실현합니다." },
+      { "title": "FACE & BODY 거상", "desc": "처진 피부를 근본적으로 개선하는 안면·팔·허벅지 거상 전문 시술입니다." },
+      { "title": "SVF 가슴성형", "desc": "자가지방과 SVF 줄기세포를 활용한 자연스러운 가슴 볼륨업 시술입니다." },
+      { "title": "쁘띠 시술", "desc": "보톡스, 필러, 실리프팅 등 비수술적 방법으로 빠른 효과를 경험하세요." },
+      { "title": "SVF 지방이식", "desc": "줄기세포 생착 기술로 자연스럽고 오래 유지되는 볼륨을 만들어 드립니다." }
+    ]
+  },
+  "form": {
+    "selectProcedure": "선택해주세요",
+    "selectDoctor": "선택해주세요 (선택사항)",
+    "privacyAlert": "개인정보 수집에 동의해주세요.",
+    "successTitle": "상담 신청이 완료되었습니다!",
+    "successDesc": "빠른 시간 내에 연락드리겠습니다.",
+    "namePlaceholder": "홍길동",
+    "phonePlaceholder": "010-0000-0000",
+    "procedures": [
+      "SVF 항노화", "SVF 지방흡입", "SVF 지방이식",
+      "안면거상", "팔거상", "허벅지거상",
+      "가슴성형", "눈성형", "코성형", "LAST 다이어트"
+    ],
+    "doctors": [
+      "정유석 원장", "조재호 원장", "김윤근 원장", "백중재 원장"
+    ]
+  }
+}

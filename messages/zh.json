@@ -1,0 +1,272 @@
+{
+  "nav": {
+    "consultation": "定制咨询",
+    "svfAntiAging": "SVF抗衰老",
+    "svfLipo": "SVF吸脂·移植",
+    "faceBodyLift": "面部·身体提升",
+    "petit": "微整形&提升",
+    "breast": "隆胸",
+    "lastDiet": "LAST减肥",
+    "eyeNose": "眼·鼻",
+    "review": "评价",
+    "about": "关于TheLine",
+    "promotion": "活动优惠",
+    "openConsult": "公开咨询",
+    "doctorQA": "医生Q&A",
+    "costConsult": "费用咨询",
+    "selfieReview": "自拍评价",
+    "beforeAfter": "术前术后",
+    "pressRelease": "媒体报道",
+    "thelineTV": "TheLine TV",
+    "shorts": "短视频",
+    "doctorIntro": "医生介绍",
+    "clinicInfo": "诊所介绍",
+    "location": "交通路线",
+    "svfSkinTreatment": "SVF皮肤治疗",
+    "svfFaceliftSub": "SVF面部提升",
+    "svfCellTherapy": "SVF细胞治疗",
+    "svfLiposuctionSub": "SVF吸脂",
+    "svfFatTransferSub": "SVF脂肪移植",
+    "svfBreastTransferSub": "SVF隆胸移植",
+    "faceliftSub": "面部提升",
+    "browForehead": "眉间·额头提升",
+    "neckLift": "颈部提升",
+    "armLiftSub": "手臂提升",
+    "thighLiftSub": "大腿提升",
+    "botox": "肉毒素",
+    "filler": "填充剂",
+    "threadLift": "线雕提升",
+    "implantBreast": "假体隆胸",
+    "svfBreastSurgery": "SVF隆胸",
+    "breastRevision": "隆胸修复",
+    "lastDietProgram": "LAST减肥方案",
+    "dietReviewNav": "减肥评价",
+    "eyeSurgery": "眼部整形",
+    "noseSurgery": "鼻部整形"
+  },
+  "home": {
+    "heroTitle": "TheLine整形外科",
+    "heroSubtitle": "安全美丽的蜕变",
+    "signatureCase": "代表案例",
+    "signatureSub": "TheLine招牌项目",
+    "thelineShorts": "TheLine短视频",
+    "study": "学习",
+    "medicalTeam": "医疗团队",
+    "medicalTeamSub": "TheLine专业医师",
+    "selfieReview": "自拍评价",
+    "selfieReviewSub": "真实患者体验",
+    "beforeAfter": "术前术后",
+    "beforeAfterSub": "真实治疗效果",
+    "openConsult": "公开咨询",
+    "doctorQA": "医生Q&A",
+    "privateConsult": "私密咨询",
+    "promotionEvent": "促销活动",
+    "allVideos": "全部",
+    "beforeAfterTab": "术前术后",
+    "procedureTab": "手术过程",
+    "dietReview": "减肥评价",
+    "viewMore": "查看更多",
+    "consultNow": "立即咨询",
+    "bookSchedule": "预约",
+    "chatConsult": "聊天咨询",
+    "costConsult": "费用咨询",
+    "notice": "公告",
+    "directions": "交通路线",
+    "name": "姓名",
+    "phone": "联系方式",
+    "procedure": "咨询部位",
+    "doctor": "主治医生",
+    "submit": "提交咨询",
+    "privacyAgree": "同意隐私政策",
+    "years": "年",
+    "viewDetails": "查看详情",
+    "goTo": "前往",
+    "youtubeChannel": "访问YouTube频道",
+    "viewAllDoctors": "查看所有医生",
+    "freeConsultLabel": "免费咨询",
+    "consultHeadingPre": "立即预约",
+    "consultHeadingHighlight": "免费咨询",
+    "consultHeadingPost": "",
+    "consultDesc": "我们的专业医疗团队将为您提供\n1对1个性化咨询服务。",
+    "consultStep1": "提交咨询后24小时内联系",
+    "consultStep2": "专属协调员安排日程",
+    "consultStep3": "与专业医师1对1定制咨询",
+    "phoneConsultLabel": "电话咨询",
+    "phoneHours": "工作日·周六 09:30–18:30",
+    "onlineConsultTitle": "在线咨询申请",
+    "openConsultDesc": "在公开论坛查看专业医师的解答",
+    "doctorQADesc": "直接向我们的医生提问",
+    "privateConsultDesc": "享受私密个性化咨询服务",
+    "promotionEventDesc": "查看TheLine的特别活动和优惠",
+    "yearsExperience": "年以上经验",
+    "aboutTitle": "提升美的标准",
+    "aboutTitleBold": "TheLine整形外科",
+    "aboutDesc": "TheLine整形外科凭借30年以上的整形外科专家经验，\n追求安全自然的美丽。\n\n通过SVF干细胞技术和精密吸脂系统，\n为每一位客户提供最优的定制方案。",
+    "aboutFeature1": "SVF干细胞专家",
+    "aboutFeature2": "4位专业医师诊疗",
+    "aboutFeature3": "自有研究室",
+    "aboutFeature4": "尊享护理",
+    "makeAppointment": "预约咨询",
+    "servicesTitle": "TheLine的特色项目",
+    "servicesSub": "以30年经验和尖端技术打造的TheLine签名项目",
+    "statYears": "年+",
+    "statYearsLabel": "整形外科专家经历",
+    "statCasesLabel": "累计手术案例",
+    "statReviewsLabel": "客户评价",
+    "statDoctorsUnit": "位",
+    "statDoctorsLabel": "专业医师",
+    "onlineConsultSub": "轻松在线提交咨询申请"
+  },
+  "banner": {
+    "viewDetails": "查看详情",
+    "slides": [
+      { "title": "安全顺滑\n大容量SVF手臂吸脂", "subtitle": "起 140万韩元", "tag": "SVF吸脂" },
+      { "title": "TheLine招牌\nSVF深层面部提升", "subtitle": "起 1,300万韩元", "tag": "面部提升" },
+      { "title": "TheLine SVF 360\n腹部吸脂", "subtitle": "起 210万韩元", "tag": "SVF吸脂" },
+      { "title": "手臂提升\n松弛手臂矫正", "subtitle": "起 300万韩元", "tag": "面部&身体提升" },
+      { "title": "SVF颧骨缩小\n面部丰盈方案", "subtitle": "起 660万韩元", "tag": "SVF抗衰老" }
+    ]
+  },
+  "cases": {
+    "items": [
+      { "title": "招牌腰部·骨盆·马鞍脂肪", "subtitle": "纤细紧致的体型线条", "price": "起 250万韩元" },
+      { "title": "招牌骨感手臂吸脂", "subtitle": "纤细顺滑手臂线条", "price": "起 140万韩元" },
+      { "title": "招牌360°大腿轮廓", "subtitle": "修长纤细的双腿", "price": "起 230万韩元" },
+      { "title": "招牌手臂提升", "subtitle": "矫正松弛手臂线条", "price": "起 300万韩元" },
+      { "title": "SVF深层面部提升", "subtitle": "自然面部提升效果", "price": "起 1,300万韩元" },
+      { "title": "SVF颧骨缩小", "subtitle": "颧骨缩小+面部丰盈", "price": "起 660万韩元" }
+    ]
+  },
+  "promotion": {
+    "title": "促销活动",
+    "subtitle": "TheLine特别优惠",
+    "ongoing": "进行中",
+    "ended": "已结束",
+    "won": "万韩元"
+  },
+  "review": {
+    "title": "自拍评价",
+    "subtitle": "患者真实反馈",
+    "total": "共",
+    "count": "条评价",
+    "viewDetails": "查看详情",
+    "categories": ["全部", "手臂", "腹部", "大腿", "面部", "胸部"],
+    "items": [
+      { "title": "手臂提升+吸脂3个月后记", "category": "手臂" },
+      { "title": "手臂吸脂+提升6个月后记", "category": "手臂" },
+      { "title": "手臂吸脂成功案例", "category": "手臂" },
+      { "title": "腹部吸脂1个月后记", "category": "腹部" },
+      { "title": "1个月后记更新", "category": "手臂" },
+      { "title": "臀部脂肪移植后记", "category": "大腿" },
+      { "title": "手臂吸脂3个月", "category": "手臂" },
+      { "title": "手臂吸脂瘢痕最小化后记", "category": "手臂" }
+    ]
+  },
+  "videos": {
+    "youtubeChannel": "访问YouTube频道",
+    "items": {
+      "allVideos": [
+        "SVF深层面部提升手术过程",
+        "手臂吸脂3个月效果",
+        "SVF 360腹部吸脂",
+        "TheLine干细胞研究室参观"
+      ],
+      "beforeAfterTab": [
+        "面部提升术前术后",
+        "手臂吸脂术前术后"
+      ],
+      "procedureTab": [
+        "SVF手术过程详解",
+        "吸脂手术过程"
+      ],
+      "dietReview": [
+        "LAST减肥2个月后记",
+        "干细胞减肥后记"
+      ]
+    }
+  },
+  "about": {
+    "title": "关于TheLine",
+    "subtitle": "TheLine整形外科",
+    "address": "首尔特别市江南区新沙洞林荫道65号东南大厦4、5、6层",
+    "hours": "工作日·周六 09:30–18:30 / 周日·节假日休息",
+    "phone": "1899-0252",
+    "floors": {
+      "4f": "4层 - 咨询室",
+      "5f": "5层 - 治疗管理室·干细胞研究室",
+      "6f": "6层 - 手术室"
+    }
+  },
+  "footer": {
+    "address": "首尔市江南区新沙洞林荫道65号东南大厦4-6层",
+    "hours": "工作日·周六 09:30–18:30",
+    "closed": "周日·节假日休息",
+    "phone": "1899-0252",
+    "international": "海外咨询",
+    "line": "LINE: thelinezx",
+    "wechat": "WeChat: thelinezx",
+    "whatsapp": "WhatsApp: +82 10 9848 0252",
+    "copyright": "© TheLine整形外科. 版权所有.",
+    "onlineConsult": "在线咨询",
+    "freeConsult": "免费在线咨询",
+    "freeConsultSub": "与专业医师享受1对1个性化咨询",
+    "quickLinks": "快速链接",
+    "promotionLink": "促销活动",
+    "reviewLink": "自拍评价",
+    "doctorLink": "医生介绍",
+    "locationLink": "交通路线"
+  },
+  "doctors": {
+    "jung": {
+      "name": "郑裕石 院长",
+      "title": "代表院长",
+      "career": "整形外科专家31年",
+      "specialties": ["SVF抗衰老", "面部提升", "吸脂移植"]
+    },
+    "jo": {
+      "name": "赵宰昊 院长",
+      "title": "院长",
+      "career": "30年SVF脂肪专家",
+      "specialties": ["SVF脂肪", "干细胞", "脂肪移植"]
+    },
+    "kim": {
+      "name": "金允根 院长",
+      "title": "院长",
+      "career": "29年细胞级精密手术",
+      "specialties": ["细胞级精密", "SVF治疗", "抗衰老"]
+    },
+    "baek": {
+      "name": "白重材 院长",
+      "title": "院长",
+      "career": "以患者沟通为重",
+      "specialties": ["隆胸手术", "眼·鼻", "定制咨询"]
+    }
+  },
+  "services": {
+    "items": [
+      { "title": "SVF吸脂", "desc": "结合SVF干细胞技术的新一代吸脂术，打造光滑紧致的身体线条。" },
+      { "title": "SVF面部提升", "desc": "通过深层面部提升和SVF干细胞技术，实现自然年轻的面部效果。" },
+      { "title": "面部·身体提升", "desc": "从根本改善松弛皮肤的面部、手臂、大腿提升专业项目。" },
+      { "title": "SVF隆胸", "desc": "利用自体脂肪和SVF干细胞实现自然丰满的胸部。" },
+      { "title": "微整形", "desc": "通过肉毒素、填充剂、线雕等非手术方式快速见效。" },
+      { "title": "SVF脂肪移植", "desc": "干细胞移植技术打造自然持久的面部丰盈效果。" }
+    ]
+  },
+  "form": {
+    "selectProcedure": "请选择",
+    "selectDoctor": "请选择（可选）",
+    "privacyAlert": "请同意隐私政策。",
+    "successTitle": "咨询申请已提交！",
+    "successDesc": "我们将尽快与您联系。",
+    "namePlaceholder": "您的姓名",
+    "phonePlaceholder": "+82-10-0000-0000",
+    "procedures": [
+      "SVF抗衰老", "SVF吸脂", "SVF脂肪移植",
+      "面部提升", "手臂提升", "大腿提升",
+      "隆胸手术", "眼部整形", "鼻部整形", "LAST减肥"
+    ],
+    "doctors": [
+      "郑裕石 院长", "赵宰昊 院长", "金允根 院长", "白重材 院长"
+    ]
+  }
+}
